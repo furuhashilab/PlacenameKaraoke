@@ -36,3 +36,7 @@
 
 ## 参考資料
 * 歌がつむぐ日本の地図 (旅に出たくなる地図シリーズ8)
+
+
+## このアイディアのライセンス
+[© FuruhashiLab., CC0](https://github.com/furuhashilab/PlacenameKaraoke/blob/main/LICENSE)
