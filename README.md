@@ -1,7 +1,6 @@
-![banner](https://user-images.githubusercontent.com/416977/109676804-66945f80-7bbc-11eb-9854-87e8d4099b2d.jpg)
-
 # PlacenameKaraoke v1.0
 地名縛りカラオケルール
+![banner](https://user-images.githubusercontent.com/416977/109676804-66945f80-7bbc-11eb-9854-87e8d4099b2d.jpg)
 
 ## ルール
 * 歌詞の中に地名を含める。
