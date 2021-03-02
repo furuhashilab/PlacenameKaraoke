@@ -1,4 +1,4 @@
-# PlacenameKaraoke
+# PlacenameKaraoke v1.0
 地名縛りカラオケルール
 
 
